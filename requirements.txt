@@ -8,5 +8,7 @@ certifi
 scipy
 scikit-learn
 mlflow
+fastapi
+uvicorn
 
 ##-e .

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/MLproject-NetworkSecurity/mlruns/0/models/m-2b681ad77a7e44b1b20714676879e1b3/artifacts
+creation_timestamp: 1766931832812
+experiment_id: '0'
+last_updated_timestamp: 1766931890086
+model_id: m-2b681ad77a7e44b1b20714676879e1b3
+model_type: null
+name: model
+source_run_id: 60eb5d8af8494c439f78992616168d0a
+status: 2
+status_message: null

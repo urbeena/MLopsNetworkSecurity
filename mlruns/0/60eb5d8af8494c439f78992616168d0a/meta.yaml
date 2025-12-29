@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/MLproject-NetworkSecurity/mlruns/0/60eb5d8af8494c439f78992616168d0a/artifacts
+end_time: 1766931890126
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 60eb5d8af8494c439f78992616168d0a
+run_name: nosy-ape-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766931831956
+status: 3
+tags: []
+user_id: HP

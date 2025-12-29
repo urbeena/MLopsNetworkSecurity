@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/MLproject-NetworkSecurity/mlruns/0/bb45725380e34a8db3921edbc62868aa/artifacts
+end_time: 1766931915872
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb45725380e34a8db3921edbc62868aa
+run_name: learned-stag-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766931890244
+status: 3
+tags: []
+user_id: HP
